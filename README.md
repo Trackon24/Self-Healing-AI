@@ -23,6 +23,17 @@ The project is fully reproducible:
 1. Run baseline model
 2. Run self-healing module notebook
 
+## Pre-trained Model Access
+
+Due to GitHub file size limitations, the trained model is hosted externally.
+
+🔗 Download Model:
+
+
+https://drive.google.com/file/d/1ZX3-uO08b6g3I6JKP-0vH0vefswLsZUt/view?usp=sharing
+
+The system is fully reproducible by running the provided notebook.   
+
 ## Key Results
 Original Accuracy : 80.55%
 Healed   Accuracy : 94.47%
