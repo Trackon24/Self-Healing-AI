@@ -23,5 +23,10 @@ The project is fully reproducible:
 1. Run baseline model
 2. Run self-healing module notebook
 
+## Key Results
+Original Accuracy : 80.55%
+Healed   Accuracy : 94.47%
+   
+
 ## Note
 Due to size limitations, trained model files are not uploaded.
