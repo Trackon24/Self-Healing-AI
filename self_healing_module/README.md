@@ -1,10 +1,27 @@
-# Self-Healing AI Module
+# Self-Healing AI for Reliable Credit Risk Prediction
 
-This module implements an advanced self-healing mechanism for AI models.
+## Overview
+This project introduces a self-healing AI system that improves the reliability of machine learning predictions by detecting and correcting its own errors.
 
-Key components:
-- Confidence estimation (confidence, entropy, margin)
-- Error detection model
-- Automated prediction correction
+## Architecture
+- Baseline Model (XGBoost)
+- Uncertainty Estimation (confidence, entropy, margin)
+- Error Detection Model
+- Self-Healing Correction Mechanism
 
-This module enhances the baseline model by enabling it to detect and correct its own errors.
+## Contributions
+- Baseline Model: Initial prediction system
+- Self-Healing Module: Error detection and correction layer
+
+## Key Results
+- Improved prediction reliability
+- Enhanced detection of uncertain predictions
+- Better performance on minority class
+
+## Reproducibility
+The project is fully reproducible:
+1. Run baseline model
+2. Run self-healing module notebook
+
+## Note
+Due to size limitations, trained model files are not uploaded.
