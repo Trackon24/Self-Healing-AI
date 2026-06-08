@@ -8,10 +8,12 @@ This project introduces a self-healing AI system that improves the reliability o
 - Uncertainty Estimation (confidence, entropy, margin)
 - Error Detection Model
 - Self-Healing Correction Mechanism
+- Explainable AI (SHAP, LIME)
 
 ## Contributions
 - Baseline Model: Initial prediction system
 - Self-Healing Module: Error detection and correction layer
+- XAI Module: Model interpretability using SHAP and LIME explanations
 
 ## Key Results
 - Improved prediction reliability
